@@ -1,0 +1,37 @@
+_repo: The-works-of-Richard-Hurd-volume-8-of-8_69824
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hurd, Richard
+    aliases:
+    - Richard, Lord Bishop of Lichfield and Coventry
+    - Hurd, Reverend Doctor (Richard)
+    birthdate: 1720
+    deathdate: 1808
+    gutenberg_agent_id: '47163'
+    url: http://www.gutenberg.org/2009/agents/47163
+description: ''
+gutenberg_issued: '2023-01-17'
+identifiers:
+  gutenberg: '69824'
+language: en
+pgterms:marc905: 20070112194102hurd
+pgterms:marc906: '1811'
+pgterms:marc907: GB
+production_note: Charlene Taylor, Bryan Ness and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: 'United Kingdom: Printed for T. Cadell and W. Davies,1811.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of England -- Sermons'
+- !lcsh 'Poetry -- History and criticism'
+- !lcsh 'Romances -- History and criticism'
+- !lcsh 'Dialogues, English'
+- !lcsh 'Great Britain -- Civilization -- 17th century'
+- !lcc 'PR'
+- GITenberg
+title: The works of Richard Hurd, volume 8 (of 8)
+url: http://www.gutenberg.org/ebooks/69824
