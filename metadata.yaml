@@ -1,5 +1,8 @@
 _repo: The-works-of-Richard-Hurd-volume-8-of-8_69824
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69824-h/images/cover.jpg
 creator:
   author:
     agent_name: Hurd, Richard
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '47163'
     url: http://www.gutenberg.org/2009/agents/47163
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69824#The-works-of-Richard-Hurd-volume-8-of-8
 gutenberg_issued: '2023-01-17'
 identifiers:
   gutenberg: '69824'
